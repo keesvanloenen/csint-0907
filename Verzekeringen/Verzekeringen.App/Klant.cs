@@ -6,6 +6,8 @@ public class Klant
     public string? Naam { get; set; }           // reference type, tegenwoordig ook standaard non-nullable
     // public string Naam { get; set; } = null!;   // ik beloof dat ik nooit null wordt (bijv. constructor set Naam niet)
 
+    public ContactVoorkeur Voorkeur { get; set; }
+
     public Klant(string naam)
     {
         Naam = naam;
