@@ -1,0 +1,15 @@
+C:\Work\csint-0907\Verzekeringen\Verzekeringen.App\bin\Debug\net10.0\Verzekeringen.App.exe
+C:\Work\csint-0907\Verzekeringen\Verzekeringen.App\bin\Debug\net10.0\Verzekeringen.App.deps.json
+C:\Work\csint-0907\Verzekeringen\Verzekeringen.App\bin\Debug\net10.0\Verzekeringen.App.runtimeconfig.json
+C:\Work\csint-0907\Verzekeringen\Verzekeringen.App\bin\Debug\net10.0\Verzekeringen.App.dll
+C:\Work\csint-0907\Verzekeringen\Verzekeringen.App\bin\Debug\net10.0\Verzekeringen.App.pdb
+C:\Work\csint-0907\Verzekeringen\Verzekeringen.App\obj\Debug\net10.0\Verzekeringen.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\csint-0907\Verzekeringen\Verzekeringen.App\obj\Debug\net10.0\Verzekeringen.App.AssemblyInfoInputs.cache
+C:\Work\csint-0907\Verzekeringen\Verzekeringen.App\obj\Debug\net10.0\Verzekeringen.App.AssemblyInfo.cs
+C:\Work\csint-0907\Verzekeringen\Verzekeringen.App\obj\Debug\net10.0\Verzekeringen.App.csproj.CoreCompileInputs.cache
+C:\Work\csint-0907\Verzekeringen\Verzekeringen.App\obj\Debug\net10.0\Verzekeringen.App.dll
+C:\Work\csint-0907\Verzekeringen\Verzekeringen.App\obj\Debug\net10.0\refint\Verzekeringen.App.dll
+C:\Work\csint-0907\Verzekeringen\Verzekeringen.App\obj\Debug\net10.0\Verzekeringen.App.pdb
+C:\Work\csint-0907\Verzekeringen\Verzekeringen.App\obj\Debug\net10.0\Verzekeringen.App.genruntimeconfig.cache
+C:\Work\csint-0907\Verzekeringen\Verzekeringen.App\obj\Debug\net10.0\ref\Verzekeringen.App.dll
+C:\Work\csint-0907\Verzekeringen\Verzekeringen.App\obj\Debug\net10.0\Verzeker.828F3808.Up2Date
