@@ -1,4 +1,4 @@
-﻿namespace Verzekeringen.App;
+﻿namespace Verzekeringen.App.Polissen;
 
 public class Polis
 {
@@ -12,4 +12,6 @@ public class Polis
         klantNaam = Klant?.Naam;
         premie = Premie;
     }
+
+    public virtual Bedrag BerekenPremie() => new Bedrag(50m);
 }

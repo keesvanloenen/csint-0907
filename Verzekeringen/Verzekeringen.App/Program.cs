@@ -2,6 +2,7 @@
 using System.ComponentModel.DataAnnotations;
 using System.Globalization;
 using System.Security.Cryptography;
+using Verzekeringen.App.Polissen;
 
 namespace Verzekeringen.App;
 
@@ -17,7 +18,26 @@ internal class Program
         //DemoDeconstruct();
         //DemoRecord();
         //DemoSchadeCollection();
-        DemoCollectionInitializer();
+        //DemoCollectionInitializer();
+        DemoInterfaces();
+    }
+
+    private static void DemoInterfaces()
+    {
+        var klant = new Klant("Abdulrahman");
+        var bedrag = new Bedrag(20m);
+        var tariefApi = new TariefApi();
+
+        var polis = new AutoPolis(tariefApi) { Code = "ABC123", Premie = bedrag, Klant = klant, };
+        Console.WriteLine(polis.BerekenPremie());
+
+        VerwerkHetEigenRisico(polis);
+
+    }
+
+    private static void VerwerkHetEigenRisico(ISchadeVerzekering polis)
+    {
+        Console.WriteLine($"We verwerken nu het eigen risico van: {polis.EigenRisico}");
     }
 
     private static void DemoCollectionInitializer()
