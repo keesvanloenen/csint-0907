@@ -6,6 +6,9 @@ public class AutoPolis : Polis, ISchadeVerzekering
 
     public Bedrag? EigenRisico { get; set; } = new Bedrag(30m);
 
+    public int AantalClaims { get; private set; }
+    public bool IsRisicovol { get; private set; }
+
     public AutoPolis(ITariefApi tariefApi)       // 2. Injectie
     {
         _tariefApi = tariefApi;         
@@ -16,6 +19,14 @@ public class AutoPolis : Polis, ISchadeVerzekering
         Bedrag dagTarief = _tariefApi.HaalDagTariefOp("auto");
         Bedrag basisPremie = new Bedrag(40m);
         return basisPremie.Add(dagTarief);
+    }
+
+    protected override void OnClaimIngediend(ClaimArgs args)
+    {
+        AantalClaims++;
+        IsRisicovol = (AantalClaims > 2);
+
+        base.OnClaimIngediend(args);
     }
 
 }

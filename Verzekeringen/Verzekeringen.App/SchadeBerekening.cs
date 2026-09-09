@@ -1,6 +1,4 @@
-﻿using System.Runtime.CompilerServices;
-
-namespace Verzekeringen.App;
+﻿namespace Verzekeringen.App;
 
 public class SchadeBerekening
 {

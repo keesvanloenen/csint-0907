@@ -24,7 +24,37 @@ internal class Program
         //DemoTypeConversions();
         //DemoRealConversions();
         //DemoUserDefinedConversions();
-        DemoUserDefinedOperators();
+        //DemoUserDefinedOperators();
+        DemoEvents();
+    }
+
+    private static void DemoEvents()
+    {
+        var schadeMedewerker = new SchadeMedewerker() { Naam = "Toon" };
+
+        // Dit is de publisher
+        var polis = new AutoPolis(new TariefApi())
+        {
+            Code = "ABC123",
+            Premie = new Bedrag(20m),
+            Klant = new Klant("Abdulrahman")
+        };
+
+        polis.ClaimIngediend += schadeMedewerker.OnClaimIngediend!;
+        
+        // Claims verwerken
+        polis.VerwerkClaim(3000m, "Autoreparatie na aanrijding");
+        Console.WriteLine($"Totaal uitgekeerd: {polis.Uitgekeerd}");
+        Console.WriteLine($"IsRisicovol = {polis.IsRisicovol}");
+
+        polis.VerwerkClaim(1001m, "Glasreparatie");
+        Console.WriteLine($"Totaal uitgekeerd: {polis.Uitgekeerd}");
+        Console.WriteLine($"IsRisicovol = {polis.IsRisicovol}");
+
+        polis.VerwerkClaim(1001m, "Glasreparatie");
+        Console.WriteLine($"Totaal uitgekeerd: {polis.Uitgekeerd}");
+        Console.WriteLine($"IsRisicovol = {polis.IsRisicovol}");
+
     }
 
     private static void DemoUserDefinedOperators()
@@ -36,6 +66,10 @@ internal class Program
         bedrag1 += bedrag2;
 
         Console.WriteLine(bedrag1);
+
+        Console.WriteLine(ulong.MinValue);
+        Console.WriteLine(ulong.MaxValue);
+        Console.WriteLine(int.MaxValue);
     }
 
     private static void DemoRealConversions()
@@ -80,9 +114,9 @@ internal class Program
         // ----------------------------------------------
 
         // Declaration Pattern
-        if (obj is string s)
+        if (obj is string deGeconverteerdeWaarde)
         {
-            Console.WriteLine(s.Length);
+            Console.WriteLine(deGeconverteerdeWaarde.Length);
         }
 
         // Constant Pattern
@@ -133,6 +167,7 @@ internal class Program
 
         // string melding;
 
+        // Switch STATEMENT
         //switch(age)
         //{
         //    case 0:
@@ -152,6 +187,8 @@ internal class Program
         //        break;
         //}
 
+
+        // Switch EXPRESSION
         string melding = age switch
         {
             0 => "Baby",

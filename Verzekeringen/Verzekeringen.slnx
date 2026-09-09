@@ -1,3 +1,5 @@
 <Solution>
+  <Project Path="DelegateMeeDoeDemo/DelegateMeeDoeDemo.csproj" Id="7eb8e087-e694-4b0c-814c-58804b488144" />
+  <Project Path="DelegateOefening/DelegateOefening.csproj" Id="22b2c433-2847-40cb-8ed3-bab441328561" />
   <Project Path="Verzekeringen.App/Verzekeringen.App.csproj" />
 </Solution>
