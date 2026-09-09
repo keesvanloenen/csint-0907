@@ -25,7 +25,61 @@ internal class Program
         //DemoRealConversions();
         //DemoUserDefinedConversions();
         //DemoUserDefinedOperators();
-        DemoEvents();
+        //DemoEvents();
+        //DemoMijnLijst();
+        DemoGenericMethods();
+    }
+
+    private static void DemoMijnLijst()
+    {
+        MijnLijst<Klant> klanten =
+        [
+            new Klant("Ernie"),
+            new Klant("Bert"),
+        ];
+
+        foreach(var k in klanten)
+        {
+            Console.WriteLine(k.Naam);
+        }
+    }
+
+    private static void DemoGenericMethods()
+    {
+        Schade[] schades = [new Schade("A", 1m, DateTime.Now), new Schade("C", 2m, DateTime.Now), new Schade("B", 2m, DateTime.Now)];
+        //Console.WriteLine(GetHighest([1,2,3,5,4]));
+        Console.WriteLine(GetHighest(schades));
+    }
+
+    private static T GetHighest<T>(T[] values)
+        where T : IComparable<T>            // Type moet interface implementeren
+        //where T: Polis                        // Type moet erven van een base class
+        //where T: class                        // Type moet een reference type zijn
+        //where T: struct                       // Type moet een value type zijn
+        //where T: new()                        // Type moet een default constructor hebben
+        //where T: notnull                        // Type is not nullable
+        //where T: Klant, IComparable<T>, new()   // combi
+    {
+        if (values.Length is 0)
+        {
+            throw new ArgumentException("Minimaal 2 waardes graag");
+        }
+
+        T highestValue = values[0];
+
+        for (var i = 1; i < values.Length; i++)
+        {
+            if (values[i].CompareTo(highestValue) > 0)      // 1 = linker value hoogst, -1 = rechter value hoogst, 0 = even hoog
+            {
+                highestValue = values[i];
+            }
+            //if (values[i] > highestValue)       // niet alle types ondersteunden >
+            //{
+            //    highestValue = values[i];
+            //}
+        }
+
+        return highestValue;
     }
 
     private static void DemoEvents()

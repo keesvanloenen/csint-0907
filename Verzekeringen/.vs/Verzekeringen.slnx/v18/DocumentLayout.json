@@ -3,56 +3,16 @@
   "WorkspaceRootPath": "C:\\Work\\csint-0907\\Verzekeringen\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3AB388D1-7B84-474A-8C92-30BA82729C47}|VerjaardagsOefening.Library\\VerjaardagsOefening.Library.csproj|c:\\work\\csint-0907\\verzekeringen\\verjaardagsoefening.library\\persoon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3AB388D1-7B84-474A-8C92-30BA82729C47}|VerjaardagsOefening.Library\\VerjaardagsOefening.Library.csproj|solutionrelative:verjaardagsoefening.library\\persoon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66FE7D3B-D333-470F-AF65-05C946B00EE3}|VerjaardagsOefening.App\\VerjaardagsOefening.App.csproj|c:\\work\\csint-0907\\verzekeringen\\verjaardagsoefening.app\\werknemer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66FE7D3B-D333-470F-AF65-05C946B00EE3}|VerjaardagsOefening.App\\VerjaardagsOefening.App.csproj|solutionrelative:verjaardagsoefening.app\\werknemer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{66FE7D3B-D333-470F-AF65-05C946B00EE3}|VerjaardagsOefening.App\\VerjaardagsOefening.App.csproj|c:\\work\\csint-0907\\verzekeringen\\verjaardagsoefening.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66FE7D3B-D333-470F-AF65-05C946B00EE3}|VerjaardagsOefening.App\\VerjaardagsOefening.App.csproj|solutionrelative:verjaardagsoefening.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22B2C433-2847-40CB-8ED3-BAB441328561}|DelegateOefening\\DelegateOefening.csproj|c:\\work\\csint-0907\\verzekeringen\\delegateoefening\\delegateoefening.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{22B2C433-2847-40CB-8ED3-BAB441328561}|DelegateOefening\\DelegateOefening.csproj|solutionrelative:delegateoefening\\delegateoefening.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21E0D165-DDD9-FB63-83D6-793CCB64C713}|Verzekeringen.App\\Verzekeringen.App.csproj|c:\\work\\csint-0907\\verzekeringen\\verzekeringen.app\\verzekeringen.app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{21E0D165-DDD9-FB63-83D6-793CCB64C713}|Verzekeringen.App\\Verzekeringen.App.csproj|solutionrelative:verzekeringen.app\\verzekeringen.app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3AB388D1-7B84-474A-8C92-30BA82729C47}|VerjaardagsOefening.Library\\VerjaardagsOefening.Library.csproj|c:\\work\\csint-0907\\verzekeringen\\verjaardagsoefening.library\\verjaardagsoefening.library.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3AB388D1-7B84-474A-8C92-30BA82729C47}|VerjaardagsOefening.Library\\VerjaardagsOefening.Library.csproj|solutionrelative:verjaardagsoefening.library\\verjaardagsoefening.library.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66FE7D3B-D333-470F-AF65-05C946B00EE3}|VerjaardagsOefening.App\\VerjaardagsOefening.App.csproj|c:\\work\\csint-0907\\verzekeringen\\verjaardagsoefening.app\\verjaardagsoefening.app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{66FE7D3B-D333-470F-AF65-05C946B00EE3}|VerjaardagsOefening.App\\VerjaardagsOefening.App.csproj|solutionrelative:verjaardagsoefening.app\\verjaardagsoefening.app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3AB388D1-7B84-474A-8C92-30BA82729C47}|VerjaardagsOefening.Library\\VerjaardagsOefening.Library.csproj|c:\\work\\csint-0907\\verzekeringen\\verjaardagsoefening.library\\verjaardagsdienst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3AB388D1-7B84-474A-8C92-30BA82729C47}|VerjaardagsOefening.Library\\VerjaardagsOefening.Library.csproj|solutionrelative:verjaardagsoefening.library\\verjaardagsdienst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3AB388D1-7B84-474A-8C92-30BA82729C47}|VerjaardagsOefening.Library\\VerjaardagsOefening.Library.csproj|c:\\work\\csint-0907\\verzekeringen\\verjaardagsoefening.library\\verjaarargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3AB388D1-7B84-474A-8C92-30BA82729C47}|VerjaardagsOefening.Library\\VerjaardagsOefening.Library.csproj|solutionrelative:verjaardagsoefening.library\\verjaarargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21E0D165-DDD9-FB63-83D6-793CCB64C713}|Verzekeringen.App\\Verzekeringen.App.csproj|c:\\work\\csint-0907\\verzekeringen\\verzekeringen.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21E0D165-DDD9-FB63-83D6-793CCB64C713}|Verzekeringen.App\\Verzekeringen.App.csproj|solutionrelative:verzekeringen.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21E0D165-DDD9-FB63-83D6-793CCB64C713}|Verzekeringen.App\\Verzekeringen.App.csproj|c:\\work\\csint-0907\\verzekeringen\\verzekeringen.app\\polissen\\autopolis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21E0D165-DDD9-FB63-83D6-793CCB64C713}|Verzekeringen.App\\Verzekeringen.App.csproj|solutionrelative:verzekeringen.app\\polissen\\autopolis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21E0D165-DDD9-FB63-83D6-793CCB64C713}|Verzekeringen.App\\Verzekeringen.App.csproj|c:\\work\\csint-0907\\verzekeringen\\verzekeringen.app\\polissen\\polis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21E0D165-DDD9-FB63-83D6-793CCB64C713}|Verzekeringen.App\\Verzekeringen.App.csproj|solutionrelative:verzekeringen.app\\polissen\\polis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21E0D165-DDD9-FB63-83D6-793CCB64C713}|Verzekeringen.App\\Verzekeringen.App.csproj|c:\\work\\csint-0907\\verzekeringen\\verzekeringen.app\\schademedewerker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21E0D165-DDD9-FB63-83D6-793CCB64C713}|Verzekeringen.App\\Verzekeringen.App.csproj|solutionrelative:verzekeringen.app\\schademedewerker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21E0D165-DDD9-FB63-83D6-793CCB64C713}|Verzekeringen.App\\Verzekeringen.App.csproj|c:\\work\\csint-0907\\verzekeringen\\verzekeringen.app\\polissen\\claimargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21E0D165-DDD9-FB63-83D6-793CCB64C713}|Verzekeringen.App\\Verzekeringen.App.csproj|solutionrelative:verzekeringen.app\\polissen\\claimargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3AB388D1-7B84-474A-8C92-30BA82729C47}|VerjaardagsOefening.Library\\VerjaardagsOefening.Library.csproj|c:\\work\\csint-0907\\verzekeringen\\verjaardagsoefening.library\\persoon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB388D1-7B84-474A-8C92-30BA82729C47}|VerjaardagsOefening.Library\\VerjaardagsOefening.Library.csproj|solutionrelative:verjaardagsoefening.library\\persoon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -102,80 +62,28 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Werknemer.cs",
+              "DocumentMoniker": "C:\\Work\\csint-0907\\Verzekeringen\\VerjaardagsOefening.App\\Werknemer.cs",
+              "RelativeDocumentMoniker": "VerjaardagsOefening.App\\Werknemer.cs",
+              "ToolTip": "C:\\Work\\csint-0907\\Verzekeringen\\VerjaardagsOefening.App\\Werknemer.cs",
+              "RelativeToolTip": "VerjaardagsOefening.App\\Werknemer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T14:00:26.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "DelegateOefening",
-              "DocumentMoniker": "C:\\Work\\csint-0907\\Verzekeringen\\DelegateOefening\\DelegateOefening.csproj",
-              "RelativeDocumentMoniker": "DelegateOefening\\DelegateOefening.csproj",
-              "ToolTip": "C:\\Work\\csint-0907\\Verzekeringen\\DelegateOefening\\DelegateOefening.csproj",
-              "RelativeToolTip": "DelegateOefening\\DelegateOefening.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-09T12:19:39.517Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Verzekeringen.App",
-              "DocumentMoniker": "C:\\Work\\csint-0907\\Verzekeringen\\Verzekeringen.App\\Verzekeringen.App.csproj",
-              "RelativeDocumentMoniker": "Verzekeringen.App\\Verzekeringen.App.csproj",
-              "ToolTip": "C:\\Work\\csint-0907\\Verzekeringen\\Verzekeringen.App\\Verzekeringen.App.csproj",
-              "RelativeToolTip": "Verzekeringen.App\\Verzekeringen.App.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-09T12:19:37.244Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "VerjaardagsDienst.cs",
-              "DocumentMoniker": "C:\\Work\\csint-0907\\Verzekeringen\\VerjaardagsOefening.Library\\VerjaardagsDienst.cs",
-              "RelativeDocumentMoniker": "VerjaardagsOefening.Library\\VerjaardagsDienst.cs",
-              "ToolTip": "C:\\Work\\csint-0907\\Verzekeringen\\VerjaardagsOefening.Library\\VerjaardagsDienst.cs",
-              "RelativeToolTip": "VerjaardagsOefening.Library\\VerjaardagsDienst.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Persoon.cs",
+              "DocumentMoniker": "C:\\Work\\csint-0907\\Verzekeringen\\VerjaardagsOefening.Library\\Persoon.cs",
+              "RelativeDocumentMoniker": "VerjaardagsOefening.Library\\Persoon.cs",
+              "ToolTip": "C:\\Work\\csint-0907\\Verzekeringen\\VerjaardagsOefening.Library\\Persoon.cs",
+              "RelativeToolTip": "VerjaardagsOefening.Library\\Persoon.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA2wBoAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-09T12:05:22.132Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "VerjaardagsOefening.App",
-              "DocumentMoniker": "C:\\Work\\csint-0907\\Verzekeringen\\VerjaardagsOefening.App\\VerjaardagsOefening.App.csproj",
-              "RelativeDocumentMoniker": "VerjaardagsOefening.App\\VerjaardagsOefening.App.csproj",
-              "ToolTip": "C:\\Work\\csint-0907\\Verzekeringen\\VerjaardagsOefening.App\\VerjaardagsOefening.App.csproj",
-              "RelativeToolTip": "VerjaardagsOefening.App\\VerjaardagsOefening.App.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-09T12:02:47.675Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "VerjaarArgs.cs",
-              "DocumentMoniker": "C:\\Work\\csint-0907\\Verzekeringen\\VerjaardagsOefening.Library\\VerjaarArgs.cs",
-              "RelativeDocumentMoniker": "VerjaardagsOefening.Library\\VerjaarArgs.cs",
-              "ToolTip": "C:\\Work\\csint-0907\\Verzekeringen\\VerjaardagsOefening.Library\\VerjaarArgs.cs",
-              "RelativeToolTip": "VerjaardagsOefening.Library\\VerjaarArgs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-09T11:55:30.488Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "VerjaardagsOefening.Library",
-              "DocumentMoniker": "C:\\Work\\csint-0907\\Verzekeringen\\VerjaardagsOefening.Library\\VerjaardagsOefening.Library.csproj",
-              "RelativeDocumentMoniker": "VerjaardagsOefening.Library\\VerjaardagsOefening.Library.csproj",
-              "ToolTip": "C:\\Work\\csint-0907\\Verzekeringen\\VerjaardagsOefening.Library\\VerjaardagsOefening.Library.csproj",
-              "RelativeToolTip": "VerjaardagsOefening.Library\\VerjaardagsOefening.Library.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-09T11:53:00.691Z",
+              "WhenOpened": "2026-09-09T13:54:34.146Z",
               "EditorCaption": ""
             },
             {
@@ -186,84 +94,10 @@
               "RelativeDocumentMoniker": "VerjaardagsOefening.App\\Program.cs",
               "ToolTip": "C:\\Work\\csint-0907\\Verzekeringen\\VerjaardagsOefening.App\\Program.cs",
               "RelativeToolTip": "VerjaardagsOefening.App\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBwAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-09T11:52:45.777Z",
+              "WhenOpened": "2026-09-09T13:54:24.56Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Persoon.cs",
-              "DocumentMoniker": "C:\\Work\\csint-0907\\Verzekeringen\\VerjaardagsOefening.Library\\Persoon.cs",
-              "RelativeDocumentMoniker": "VerjaardagsOefening.Library\\Persoon.cs",
-              "ToolTip": "C:\\Work\\csint-0907\\Verzekeringen\\VerjaardagsOefening.Library\\Persoon.cs",
-              "RelativeToolTip": "VerjaardagsOefening.Library\\Persoon.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAcAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-09T11:52:20.029Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AutoPolis.cs",
-              "DocumentMoniker": "C:\\Work\\csint-0907\\Verzekeringen\\Verzekeringen.App\\Polissen\\AutoPolis.cs",
-              "RelativeDocumentMoniker": "Verzekeringen.App\\Polissen\\AutoPolis.cs",
-              "ToolTip": "C:\\Work\\csint-0907\\Verzekeringen\\Verzekeringen.App\\Polissen\\AutoPolis.cs",
-              "RelativeToolTip": "Verzekeringen.App\\Polissen\\AutoPolis.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAA7wBsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-09T11:35:43.627Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "SchadeMedewerker.cs",
-              "DocumentMoniker": "C:\\Work\\csint-0907\\Verzekeringen\\Verzekeringen.App\\SchadeMedewerker.cs",
-              "RelativeDocumentMoniker": "Verzekeringen.App\\SchadeMedewerker.cs",
-              "ToolTip": "C:\\Work\\csint-0907\\Verzekeringen\\Verzekeringen.App\\SchadeMedewerker.cs",
-              "RelativeToolTip": "Verzekeringen.App\\SchadeMedewerker.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-09T11:27:36.969Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ClaimArgs.cs",
-              "DocumentMoniker": "C:\\Work\\csint-0907\\Verzekeringen\\Verzekeringen.App\\Polissen\\ClaimArgs.cs",
-              "RelativeDocumentMoniker": "Verzekeringen.App\\Polissen\\ClaimArgs.cs",
-              "ToolTip": "C:\\Work\\csint-0907\\Verzekeringen\\Verzekeringen.App\\Polissen\\ClaimArgs.cs",
-              "RelativeToolTip": "Verzekeringen.App\\Polissen\\ClaimArgs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-09T11:04:27.505Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Work\\csint-0907\\Verzekeringen\\Verzekeringen.App\\Program.cs",
-              "RelativeDocumentMoniker": "Verzekeringen.App\\Program.cs",
-              "ToolTip": "C:\\Work\\csint-0907\\Verzekeringen\\Verzekeringen.App\\Program.cs",
-              "RelativeToolTip": "Verzekeringen.App\\Program.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAiwCUAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-09T09:39:37.238Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Polis.cs",
-              "DocumentMoniker": "C:\\Work\\csint-0907\\Verzekeringen\\Verzekeringen.App\\Polissen\\Polis.cs",
-              "RelativeDocumentMoniker": "Verzekeringen.App\\Polissen\\Polis.cs",
-              "ToolTip": "C:\\Work\\csint-0907\\Verzekeringen\\Verzekeringen.App\\Polissen\\Polis.cs",
-              "RelativeToolTip": "Verzekeringen.App\\Polissen\\Polis.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBwAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-09T09:37:12.519Z"
             }
           ]
         },

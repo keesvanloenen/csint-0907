@@ -62,6 +62,6 @@ Bijvoorbeeld:
 1. Gegeven een Salaris van € 1000,-
 ;  
    Als Leeftijd +=3  
-   Dan is het Salaris € 1030,30
+   Dan is het Salaris € 1030,-
 
 1. Zorg dat het Salaris alleen in de class Werknemer aan te passen is (private set)
