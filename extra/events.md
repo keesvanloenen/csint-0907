@@ -4,7 +4,7 @@
 
 Maak een class Persoon met een event dat geraised wordt als de leeftijd verandert.  
 
-Gebruik zoveel mogelijk het \[Standard .NET event pattern](https://learn.microsoft.com/en-us/dotnet/csharp/event-pattern).
+Gebruik zoveel mogelijk het [Standard .NET event pattern](https://learn.microsoft.com/en-us/dotnet/csharp/event-pattern).
 
 1. Maak een class **Persoon** (in een nieuwe class library) met daarin:
 
