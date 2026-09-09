@@ -1,0 +1,12 @@
+static void PlotSin(double xStart, double xEnd, double step)
+{
+    for (double x = xStart; x < xEnd; x += step)
+    {
+        double y = Math.Sin(x);
+        Console.WriteLine($"{x:N2}, {y:N2}");
+    }
+}
+static void Main(string[] args)
+{
+    PlotSin(0.0, Math.PI / 2, 0.01);
+}
