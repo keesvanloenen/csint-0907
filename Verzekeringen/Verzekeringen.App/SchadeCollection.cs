@@ -1,6 +1,8 @@
-﻿namespace Verzekeringen.App;
+﻿using System.Collections;
 
-public class SchadeCollection
+namespace Verzekeringen.App;
+
+public class SchadeCollection : IEnumerable<Schade>
 {
     private Schade[] _schades;      // backing field
 
@@ -52,4 +54,17 @@ public class SchadeCollection
 
 		_schades[Count++] = schade;
 	}
+
+    public IEnumerator<Schade> GetEnumerator()
+    {
+		for (var i = 0; i < Count; i++)
+		{
+			yield return _schades[i];
+		}
+	}
+
+    IEnumerator IEnumerable.GetEnumerator()
+    {
+        return GetEnumerator();
+    }
 }

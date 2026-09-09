@@ -15,6 +15,20 @@ public readonly struct Bedrag
         Currency = currency;
     }
 
+    public static implicit operator Bedrag(decimal value)
+    {
+        return new Bedrag(value);
+    }
+
+    public static explicit operator decimal(Bedrag bedrag)
+    {
+        return bedrag.Value;
+    }
+
+    public static Bedrag operator +(Bedrag a, Bedrag b) =>
+        a.Add(b);
+
+
     public Bedrag Add(Bedrag other)
     {
         if (Currency != other.Currency)

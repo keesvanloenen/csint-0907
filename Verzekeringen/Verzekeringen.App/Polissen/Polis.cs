@@ -1,6 +1,6 @@
 ﻿namespace Verzekeringen.App.Polissen;
 
-public class Polis
+public abstract class Polis
 {
     public string? Code { get; init; }
     public Klant? Klant { get; init; }

@@ -17,6 +17,5 @@ public class AutoPolis : Polis, ISchadeVerzekering
         Bedrag basisPremie = new Bedrag(40m);
         return basisPremie.Add(dagTarief);
     }
-    
 
 }
